@@ -1,0 +1,2 @@
+/home/pi/Embeded_2/kernel/kmod-basic/basicmod.o
+

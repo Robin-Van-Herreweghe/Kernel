@@ -1,0 +1,1 @@
+cmd_/home/pi/Embeded_2/kernel/kmod-basic/basicmod.ko := ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/pi/Embeded_2/kernel/kmod-basic/basicmod.ko /home/pi/Embeded_2/kernel/kmod-basic/basicmod.o /home/pi/Embeded_2/kernel/kmod-basic/basicmod.mod.o;  true
